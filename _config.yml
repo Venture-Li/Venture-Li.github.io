@@ -1,7 +1,7 @@
 name: "Wenchao's blog"
 description: "李文超的个人技术博客"
 
-avatar: https://raw.githubusercontent.com/Venture-Li/Venture-Li.github.io/main/images/Cache_-4042bd20e3400e18.jpg
+avatar: https://venture-li.github.io/images/Cache_-4042bd20e3400e18.jpg
 favicon: https://venture-li.github.io/images/favicon.ico
 
 navigation:
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: liwenchaobolt@163.com
   facebook:
-  github: pianfan
+  github: Venture-Li
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://pianfan.github.io
+url: https://venture-li.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
