@@ -2,7 +2,7 @@
 layout: post
 title: "卡码C++ A+B问题Ⅰ"
 date:   2025-6-29
-tags: [C++ Algorithm]
+tags: [Kama Algorithm]
 comments: true
 author: Venture-Li
 ---
