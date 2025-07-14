@@ -21,14 +21,14 @@ author: Venture-Li
 
 ## 输入示例
 
-> 2
-> abcdeef
-> aabbccddeeff
+> 2  
+> abcdeef  
+> aabbccddeeff  
 
 ## 输出示例
 
-> e
-> a 
+> e  
+> a   
 
 ## 题解
 
